@@ -49,7 +49,7 @@ To run this project, you must obtain two API keys:
 
 ### 1️⃣ **OpenWeatherMap API Key**
 
-1. Go to: https://openweathermap.org/city/112931  
+1. Go to: https://openweathermap.org/
 2. Sign up or log in to your account.  
 3. Navigate to:  
    **Dashboard → API Keys**  
